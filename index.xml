@@ -6,10 +6,22 @@
     <description>Recent content on José Guilherme Lopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>The main form to contact me is by e-mail: josegrlopes@gmail.com, which I usually answer in less than 24 hours.
+But feel free to add, contact and follow me on my other social networks, which are listed in the sidebar.
+Thank you,
+José Lopes.</description>
+    </item>
     
     <item>
       <title>Introduction</title>
@@ -17,10 +29,22 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/introduction/</guid>
-      <description> Hello,
+      <description>Hello,
 This is an introductory post.
 Here is a plot:
-mpg %&amp;gt;% ggplot()+ geom_point(aes(x = hwy, y = cty))+ theme_minimal() </description>
+mpg %&amp;gt;% ggplot()+geom_point(aes(x = hwy, y = cty))+theme_minimal()</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/post/introduction/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction/</guid>
+      <description>Hello,
+This is an introductory post.
+Here is a plot:
+mpg %&amp;gt;% ggplot()+ geom_point(aes(x = hwy, y = cty))+ theme_minimal()  </description>
     </item>
     
     <item>
@@ -86,6 +110,15 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Contactcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
