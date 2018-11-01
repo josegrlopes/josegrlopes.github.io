@@ -32,17 +32,5 @@ Here is a plot:
 mpg %&amp;gt;% ggplot()+geom_point(aes(x = hwy, y = cty))+theme_minimal()Here is an ad:</description>
     </item>
     
-    <item>
-      <title>Introduction</title>
-      <link>/post/introduction/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/introduction/</guid>
-      <description>Hello,
-This is an introductory post.
-Here is a plot:
-mpg %&amp;gt;% ggplot()+ geom_point(aes(x = hwy, y = cty))+ theme_minimal()  Here is an ad:</description>
-    </item>
-    
   </channel>
 </rss>
