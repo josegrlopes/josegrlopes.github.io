@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José Guilherme Lopes</title>
+    <title>José G. Lopes</title>
     <link>/</link>
-    <description>Recent content on José Guilherme Lopes</description>
+    <description>Recent content on José G. Lopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
@@ -35,7 +35,12 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/first-steps-with-r-installation-and-basic-functions/</guid>
-      <description>The R language …</description>
+      <description> true  The R Language The R language …
+ Installation ..
+ The R Studio IDE ..
+ Basic R Functions  ..
+end.
+ </description>
     </item>
     
     <item>
@@ -47,7 +52,7 @@
       <description>Hello,
 This is an introductory post.
 Here is a plot:
-mpg %&amp;gt;% ggplot()+geom_point(aes(x = hwy, y = cty))+theme_minimal()Here is an ad:</description>
+mpg %&amp;gt;% ggplot()+ geom_point(aes(x = hwy, y = cty))+ theme_minimal() Here is an ad:</description>
     </item>
     
     <item>
