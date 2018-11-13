@@ -64,20 +64,14 @@
   </url>
   
   <url>
-    <loc>/categories/python/</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/python/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <loc>/categories/python/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,13 +82,19 @@
   </url>
   
   <url>
-    <loc>/categories/statistics/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/statistics/</loc>
+    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/statistics/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
